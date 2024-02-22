@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+Modelling/lightning_logs
 Dataset/
 # Distribution / packaging
 .Python
