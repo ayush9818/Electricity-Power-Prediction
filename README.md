@@ -20,7 +20,7 @@ In this project, we aim to forecast electricity power consumption using various 
   - [Exploratory_Data_Analysis.ipynb](DataAnalysis/Exploratory_Data_Analysis.ipynb): Notebook for exploring the dataset.
 
 - **Modelling**: Contains notebooks related to different forecasting models.
-  - [EDA+Univariate SARIMAX.ipynb](Modelling/EDA+Univariate SARIMAX.ipynb): Notebook for EDA and Univariate SARIMAX model.
+  - [EDA+Univariate SARIMAX.ipynb](Modelling/EDA+UnivariateSARIMAX.ipynb): Notebook for EDA and Univariate SARIMAX model.
   - [Modelling_LSTM.ipynb](Modelling/Modelling_LSTM.ipynb): Notebook for LSTM model.
   - [Multivariate_SARIMAX.ipynb](Modelling/Multivariate_SARIMAX.ipynb): Notebook for Multivariate SARIMAX model.
   - [Univariate_Modelling.ipynb](Modelling/Univariate_Modelling.ipynb): Notebook for Univariate modelling using ARIMA.
